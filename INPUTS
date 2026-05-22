@@ -1,0 +1,17 @@
+Name:  ToggleMissionPanel
+Key:   B
+MissionFieldNext:
+Name:  MissionFieldNext
+Key:   Tab
+MissionAddWaypoint:
+Name:  MissionAddWaypoint
+Key:   I
+MissionClearAll:
+Name:  MissionClearAll
+Key:   Delete
+StartMission:
+Name:  StartMission
+Key:   U
+ToggleInputMode:
+Name:  ToggleInputMode
+Key:   T
